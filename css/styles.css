@@ -367,6 +367,15 @@ a:hover .covering-image h2::after { left:0; width:100%; color:#fff; }
   margin-left: 15px;
 }
 
+/* =Image Alignment
+--------------------------------------------------------------------------------------------------------*/
+
+.centerImage {
+	display:block;
+	position:relative;
+	margin: 100 100;
+}
+
 
 /* =End Content Elements
 --------------------------------------------------------------------------------------------------------*/
